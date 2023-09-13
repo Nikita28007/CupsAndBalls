@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817741189913",
+    "project_id": "f99f-75f0b",
+    "storage_bucket": "f99f-75f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817741189913:android:2c80327de12d6db3816b88",
+        "android_client_info": {
+          "package_name": "fspotis.gallacto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39KgKbSZHh09Ia7SYbCYi9giUofafP2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
